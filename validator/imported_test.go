@@ -11,9 +11,9 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/mertyildiran/gqlparser"
-	"github.com/mertyildiran/gqlparser/ast"
-	"github.com/mertyildiran/gqlparser/gqlerror"
+	"github.com/mertyildiran/gqlparser/v2"
+	"github.com/mertyildiran/gqlparser/v2/ast"
+	"github.com/mertyildiran/gqlparser/v2/gqlerror"
 	"github.com/stretchr/testify/require"
 	"gopkg.in/yaml.v2"
 )

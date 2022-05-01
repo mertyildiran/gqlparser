@@ -9,10 +9,10 @@ import (
 	"testing"
 	"unicode/utf8"
 
-	"github.com/mertyildiran/gqlparser"
-	"github.com/mertyildiran/gqlparser/ast"
-	"github.com/mertyildiran/gqlparser/formatter"
-	"github.com/mertyildiran/gqlparser/parser"
+	"github.com/mertyildiran/gqlparser/v2"
+	"github.com/mertyildiran/gqlparser/v2/ast"
+	"github.com/mertyildiran/gqlparser/v2/formatter"
+	"github.com/mertyildiran/gqlparser/v2/parser"
 	"github.com/stretchr/testify/assert"
 )
 

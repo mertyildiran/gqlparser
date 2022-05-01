@@ -1,4 +1,4 @@
-module github.com/mertyildiran/gqlparser
+module github.com/mertyildiran/gqlparser/v2
 
 go 1.16
 

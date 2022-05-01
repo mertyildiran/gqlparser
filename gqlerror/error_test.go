@@ -3,7 +3,7 @@ package gqlerror
 import (
 	"testing"
 
-	"github.com/mertyildiran/gqlparser/ast"
+	"github.com/mertyildiran/gqlparser/v2/ast"
 	"github.com/stretchr/testify/require"
 )
 

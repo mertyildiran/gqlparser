@@ -3,8 +3,8 @@ package parser
 import (
 	"testing"
 
-	"github.com/mertyildiran/gqlparser/ast"
-	"github.com/mertyildiran/gqlparser/lexer"
+	"github.com/mertyildiran/gqlparser/v2/ast"
+	"github.com/mertyildiran/gqlparser/v2/lexer"
 	"github.com/stretchr/testify/require"
 )
 

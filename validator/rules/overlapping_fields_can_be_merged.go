@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"reflect"
 
-	"github.com/mertyildiran/gqlparser/ast"
-	. "github.com/mertyildiran/gqlparser/validator"
+	"github.com/mertyildiran/gqlparser/v2/ast"
+	. "github.com/mertyildiran/gqlparser/v2/validator"
 )
 
 func init() {

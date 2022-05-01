@@ -4,8 +4,8 @@ import (
 	"io/ioutil"
 	"testing"
 
-	"github.com/mertyildiran/gqlparser/ast"
-	"github.com/mertyildiran/gqlparser/parser/testrunner"
+	"github.com/mertyildiran/gqlparser/v2/ast"
+	"github.com/mertyildiran/gqlparser/v2/parser/testrunner"
 	"github.com/stretchr/testify/require"
 )
 

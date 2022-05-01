@@ -6,9 +6,9 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/mertyildiran/gqlparser"
-	"github.com/mertyildiran/gqlparser/ast"
-	"github.com/mertyildiran/gqlparser/validator"
+	"github.com/mertyildiran/gqlparser/v2"
+	"github.com/mertyildiran/gqlparser/v2/ast"
+	"github.com/mertyildiran/gqlparser/v2/validator"
 )
 
 func TestValidateVars(t *testing.T) {

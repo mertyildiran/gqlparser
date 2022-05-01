@@ -6,8 +6,8 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 
-	. "github.com/mertyildiran/gqlparser/ast"
-	"github.com/mertyildiran/gqlparser/parser"
+	. "github.com/mertyildiran/gqlparser/v2/ast"
+	"github.com/mertyildiran/gqlparser/v2/parser"
 )
 
 func TestQueryDocMethods(t *testing.T) {

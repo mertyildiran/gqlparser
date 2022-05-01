@@ -1,11 +1,11 @@
 package gqlparser
 
 import (
-	"github.com/mertyildiran/gqlparser/ast"
-	"github.com/mertyildiran/gqlparser/gqlerror"
-	"github.com/mertyildiran/gqlparser/parser"
-	"github.com/mertyildiran/gqlparser/validator"
-	_ "github.com/mertyildiran/gqlparser/validator/rules"
+	"github.com/mertyildiran/gqlparser/v2/ast"
+	"github.com/mertyildiran/gqlparser/v2/gqlerror"
+	"github.com/mertyildiran/gqlparser/v2/parser"
+	"github.com/mertyildiran/gqlparser/v2/validator"
+	_ "github.com/mertyildiran/gqlparser/v2/validator/rules"
 )
 
 func LoadSchema(str ...*ast.Source) (*ast.Schema, *gqlerror.Error) {
