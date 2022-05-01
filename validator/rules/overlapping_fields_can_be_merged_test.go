@@ -3,7 +3,7 @@ package validator
 import (
 	"testing"
 
-	"github.com/vektah/gqlparser/v2/ast"
+	"github.com/mertyildiran/gqlparser/ast"
 )
 
 func Test_sameArguments(t *testing.T) {

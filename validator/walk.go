@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/vektah/gqlparser/v2/ast"
+	"github.com/mertyildiran/gqlparser/ast"
 )
 
 type Events struct {

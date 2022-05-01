@@ -2,7 +2,8 @@ package validator
 
 import (
 	_ "embed"
-	"github.com/vektah/gqlparser/v2/ast"
+
+	"github.com/mertyildiran/gqlparser/ast"
 )
 
 //go:embed prelude.graphql
